@@ -1,0 +1,73 @@
+{
+  "id": "246d0ab9-c052-4955-9ed2-cc8f45761028",
+  "name": "hourly-plan",
+  "auto": true,
+  "contexts": [
+    "building_type",
+    "hourlyplancontext",
+    "pricecontext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "hourlyduration",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "96edaa71-68bc-4898-bb15-4f8a938c62de",
+          "required": false,
+          "dataType": "@hourly-plan",
+          "name": "hourlyplan",
+          "value": "$hourlyplan",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "selected $hourlyplan, choose duration"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "platform": "ZOHOSALESIQ",
+            "input": {
+              "type": "select",
+              "options": [
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

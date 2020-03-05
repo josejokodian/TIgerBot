@@ -1,0 +1,9 @@
+{
+  "id": "87236f9c-5fa9-4952-b841-3ef8c66305c9",
+  "name": "bedroom",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

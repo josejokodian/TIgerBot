@@ -1,0 +1,74 @@
+{
+  "id": "5b3cc352-9b14-4596-9a8f-a36dd09e5eae",
+  "name": "flat-service - bedroom",
+  "auto": true,
+  "contexts": [
+    "pricecontext",
+    "building_type",
+    "bedroom_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flat-service.flat-service-custom",
+      "affectedContexts": [
+        {
+          "name": "bathroomContext",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d83563f8-b876-475d-8e1f-facd4b8c1b03",
+          "required": false,
+          "dataType": "@bedroom",
+          "name": "bedroom",
+          "value": "$bedroom",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "selected $bedroom, choose number of bathrooms"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "platform": "ZOHOSALESIQ",
+            "input": {
+              "type": "select",
+              "options": [
+                "1 Bathroom",
+                "2 Bathroom",
+                "3 Bathroom",
+                "4 Bathroom",
+                "5 Bathroom",
+                "6 Bathroom"
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

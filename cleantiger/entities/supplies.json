@@ -1,0 +1,9 @@
+{
+  "id": "e9d28f45-4d48-4666-a229-4cbf09f78300",
+  "name": "supplies",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

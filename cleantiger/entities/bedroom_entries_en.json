@@ -1,0 +1,60 @@
+[
+  {
+    "value": "1 Bedroom",
+    "synonyms": [
+      "1 bedroom",
+      "one bedroom",
+      "1 bed room",
+      "one bed room",
+      "one bed rooms"
+    ]
+  },
+  {
+    "value": "2 Bedrooms",
+    "synonyms": [
+      "2 bedroom",
+      "two bedroom",
+      "two bed room",
+      "2 bed rooms"
+    ]
+  },
+  {
+    "value": "3 Bedrooms",
+    "synonyms": [
+      "3 bedroom",
+      "three bed room",
+      "three bedroom",
+      "3 bed rooms"
+    ]
+  },
+  {
+    "value": "4 Bedrooms",
+    "synonyms": [
+      "4 bedrooms",
+      "four bedroom",
+      "four bed rooms",
+      "4 bed rooms"
+    ]
+  },
+  {
+    "value": "5 Bedrooms",
+    "synonyms": [
+      "5 bedrooms",
+      "five bedrooms",
+      "5 bed rooms",
+      "five bed room",
+      "five bed rooms"
+    ]
+  },
+  {
+    "value": "6 Bedrooms",
+    "synonyms": [
+      "6 bedrooms",
+      "six bedrooms",
+      "six bed room",
+      "6 bed room",
+      "6 bed rooms",
+      "six bed rooms"
+    ]
+  }
+]

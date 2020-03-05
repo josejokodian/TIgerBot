@@ -1,0 +1,44 @@
+[
+  {
+    "id": "eacbdf75-bf6f-4b13-9df6-cee00af1b66b",
+    "data": [
+      {
+        "text": "per hour",
+        "alias": "pricing",
+        "meta": "@pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec54d4f0-e243-4f1d-95c5-b90fbc6b0292",
+    "data": [
+      {
+        "text": "hour",
+        "alias": "pricing",
+        "meta": "@pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "010c014d-aae4-494d-b8c3-2c218278764f",
+    "data": [
+      {
+        "text": "hourly",
+        "alias": "pricing",
+        "meta": "@pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

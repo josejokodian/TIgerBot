@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1 kitchen",
+    "synonyms": [
+      "one kitchen",
+      "one",
+      "1 kitchen",
+      "1"
+    ]
+  },
+  {
+    "value": "2 kitchen",
+    "synonyms": [
+      "2 kitchen",
+      "two kitchens",
+      "2 kitchens",
+      "two kitchen",
+      "two",
+      "2"
+    ]
+  }
+]

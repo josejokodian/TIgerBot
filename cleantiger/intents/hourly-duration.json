@@ -1,0 +1,77 @@
+{
+  "id": "f4527267-57e7-4b1a-bc6c-f8d3abac3a73",
+  "name": "hourly-duration",
+  "auto": true,
+  "contexts": [
+    "hourlyduration",
+    "building_type",
+    "hourlyplancontext",
+    "pricecontext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "supplycontext",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e4c4063e-4152-404c-9f47-bc057b6abbaa",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter duration to continue"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "selected $number, choose suitable supply package."
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "platform": "ZOHOSALESIQ",
+            "input": {
+              "type": "select",
+              "options": [
+                "NO Supplies",
+                "Basic Supplies",
+                "All Supplies"
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

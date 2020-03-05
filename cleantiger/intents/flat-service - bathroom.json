@@ -1,0 +1,48 @@
+{
+  "id": "71424d75-b633-42fd-99da-22e7493062a9",
+  "name": "flat-service - bathroom",
+  "auto": true,
+  "contexts": [
+    "building_type",
+    "pricecontext",
+    "bathroomContext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flat-service.flat-service-custom.flat-service-bedroom-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "160fc774-e779-4d31-bb9f-85a2bce52ad6",
+          "required": false,
+          "dataType": "@bathroom",
+          "name": "bathroom",
+          "value": "$bathroom",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Select or enter number of bath rooms"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

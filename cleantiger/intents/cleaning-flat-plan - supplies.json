@@ -1,0 +1,49 @@
+{
+  "id": "4530224a-df11-4399-bc34-f9c18c8ee112",
+  "parentId": "2068ab77-ad7a-4965-ae42-372aebac367e",
+  "rootParentId": "26c38c56-90a3-4114-a6b8-97ec49d9692a",
+  "name": "cleaning-flat-plan - supplies",
+  "auto": true,
+  "contexts": [
+    "cleaning-flat-plan-addons-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cleaning-flat-plan.cleaning-flat-plan-custom.cleaning-flat-plan-addons-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8ad0ab44-b7fb-4330-a495-1e295dd6a445",
+          "required": false,
+          "dataType": "@supplies",
+          "name": "supplies",
+          "value": "$supplies",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

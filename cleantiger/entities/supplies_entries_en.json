@@ -1,0 +1,26 @@
+[
+  {
+    "value": "all supplies",
+    "synonyms": [
+      "all supplies",
+      "all",
+      "need everything"
+    ]
+  },
+  {
+    "value": "basic supplies",
+    "synonyms": [
+      "basic",
+      "basic supplies"
+    ]
+  },
+  {
+    "value": "no supplies",
+    "synonyms": [
+      "don\u0027t need supplies",
+      "i have supplies",
+      "no supplies",
+      "nothing"
+    ]
+  }
+]

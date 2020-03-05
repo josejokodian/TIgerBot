@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b1fbb884-4876-4898-abf5-d1fb3b04e2b3",
+    "data": [
+      {
+        "text": "6 bedrooms",
+        "alias": "bedroom",
+        "meta": "@bedroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93182b72-2cb9-4f66-a4cf-739416e9b943",
+    "data": [
+      {
+        "text": "five bedroom",
+        "alias": "bedroom",
+        "meta": "@bedroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb7d2333-885d-4e23-b57b-1a2a57f97f6b",
+    "data": [
+      {
+        "text": "four bed room",
+        "alias": "bedroom",
+        "meta": "@bedroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3c2924d-a9d4-4e5c-a5e7-aaacf91c8087",
+    "data": [
+      {
+        "text": "3 bedroom",
+        "alias": "bedroom",
+        "meta": "@bedroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f311027e-22d8-4403-9a6b-054143f4ac38",
+    "data": [
+      {
+        "text": "2 bedroom",
+        "alias": "bedroom",
+        "meta": "@bedroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3905612f-f4cb-4c7c-9aef-327a0a33cb50",
+    "data": [
+      {
+        "text": "1 bedroom",
+        "alias": "bedroom",
+        "meta": "@bedroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ce096055-f1cf-49ab-a2df-ea4cf7e2ca14",
+    "data": [
+      {
+        "text": "flat",
+        "alias": "pricing",
+        "meta": "@pricing",
+        "userDefined": false
+      },
+      {
+        "text": " pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9af0ac9-029d-436c-b53b-b06219d31982",
+    "data": [
+      {
+        "text": "flat",
+        "alias": "pricing",
+        "meta": "@pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4fd5a87-b80c-49df-b298-2bf80edd70f0",
+    "data": [
+      {
+        "text": "flat rate",
+        "alias": "pricing",
+        "meta": "@pricing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

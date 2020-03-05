@@ -1,0 +1,34 @@
+[
+  {
+    "value": "fridge",
+    "synonyms": [
+      "fridge"
+    ]
+  },
+  {
+    "value": "kitchen cabinets",
+    "synonyms": [
+      "cabinets",
+      "kitchen",
+      "kitchen cabinets"
+    ]
+  },
+  {
+    "value": "none",
+    "synonyms": [
+      "na",
+      "no",
+      "none",
+      "nop",
+      "don\u0027t need",
+      "dont",
+      "no need"
+    ]
+  },
+  {
+    "value": "oven",
+    "synonyms": [
+      "oven"
+    ]
+  }
+]

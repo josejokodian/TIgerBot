@@ -1,0 +1,50 @@
+{
+  "id": "5593e4fd-77e2-4ffc-ba7d-8f844c1bff3f",
+  "name": "supplies-intent",
+  "auto": true,
+  "contexts": [
+    "building_type",
+    "pricecontext",
+    "hourlyplancontext",
+    "hourlyduration",
+    "supplycontext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9677a94d-bae7-4f36-b445-afc133b9a653",
+          "required": false,
+          "dataType": "@supplies",
+          "name": "supplies",
+          "value": "$supplies",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "selected $supplies, choose any ad dons : oven, fridge and kitchen cabinet."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

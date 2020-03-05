@@ -1,0 +1,9 @@
+{
+  "id": "ac2edba6-89bb-4498-864f-c1e8ea9cdb58",
+  "name": "buildingtype",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

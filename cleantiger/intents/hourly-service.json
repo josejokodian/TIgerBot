@@ -1,0 +1,69 @@
+{
+  "id": "508be795-3c44-4c2e-bbe3-097f3f93689b",
+  "name": "hourly-service",
+  "auto": true,
+  "contexts": [
+    "building_type",
+    "pricecontext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "hourlyplancontext",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "85983030-5d66-4f9a-8eed-d3ffb8a809e7",
+          "required": false,
+          "dataType": "@pricing",
+          "name": "pricing",
+          "value": "$pricing",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Selected $pricing, please select any one of the Hourly Plans to continue, EASY PEASY(32$/hr), DIRT BUSTERS(40), Tough Cookie"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "platform": "ZOHOSALESIQ",
+            "input": {
+              "type": "select",
+              "options": [
+                "EASY PEASY",
+                "DIRT BUSTERS",
+                "TOUGH COOKIE"
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

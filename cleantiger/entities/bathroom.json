@@ -1,0 +1,9 @@
+{
+  "id": "1c4354ef-8b16-4260-9d0f-37e933d2393f",
+  "name": "bathroom",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

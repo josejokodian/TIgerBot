@@ -1,0 +1,53 @@
+{
+  "id": "26c38c56-90a3-4114-a6b8-97ec49d9692a",
+  "name": "cleaning-flat-plan",
+  "auto": true,
+  "contexts": [
+    "flat-service-kitchen-followup",
+    "flatPlan_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "cleaning-flat-plan-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b02e74d9-e8ef-4b8d-9173-88c95322f308",
+          "required": true,
+          "dataType": "@plans",
+          "name": "plans",
+          "value": "$plans",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

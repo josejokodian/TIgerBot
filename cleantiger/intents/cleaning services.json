@@ -1,0 +1,52 @@
+{
+  "id": "b4a6a5bb-85aa-4df3-bd48-4bc8a6015d2d",
+  "name": "cleaning services",
+  "auto": true,
+  "contexts": [
+    "building_type"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pricecontext",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d5735755-5551-4a4b-b88f-88b0e2bb6e47",
+          "required": false,
+          "dataType": "@buildingtype",
+          "name": "buildingtype",
+          "value": "$buildingtype",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "enter price type"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b0b0b332-d796-443c-ba24-341051f99dfa",
+    "data": [
+      {
+        "text": "call the tiger",
+        "alias": "plans",
+        "meta": "@plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c9c440e-89c1-4d7b-aa49-2b5bc164b765",
+    "data": [
+      {
+        "text": "clean therapy",
+        "alias": "plans",
+        "meta": "@plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52904d76-70b8-4fb2-8c97-b7ef6afe789a",
+    "data": [
+      {
+        "text": "walk in the park",
+        "alias": "plans",
+        "meta": "@plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

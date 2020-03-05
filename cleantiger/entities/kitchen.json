@@ -1,0 +1,9 @@
+{
+  "id": "66bdb8c1-7aca-449b-9d90-025556bd9e60",
+  "name": "kitchen",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "3ad7b845-5a97-4bc8-960f-82cf6cae5042",
+  "name": "flat-service",
+  "auto": true,
+  "contexts": [
+    "building_type",
+    "pricecontext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "bedroom_context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fd197585-d238-4245-a6cc-a9feb0f9fe30",
+          "required": false,
+          "dataType": "@pricing",
+          "name": "pricing",
+          "value": "$pricing",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "selected $pricing, choose number of bed rooms"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "platform": "ZOHOSALESIQ",
+            "input": {
+              "type": "slider",
+              "values": [
+                "1 Bedroom",
+                "2 Bedroom",
+                "3 Bedroom",
+                "4 Bedroom",
+                "5 Bedroom",
+                "6 Bedroom"
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

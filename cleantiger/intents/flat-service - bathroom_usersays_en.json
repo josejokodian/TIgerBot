@@ -1,0 +1,128 @@
+[
+  {
+    "id": "e624f54d-90ec-430b-b56a-ca0ae1128a3b",
+    "data": [
+      {
+        "text": "6 bathrooms",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5800d56-dc92-4a71-9415-de7d4b667573",
+    "data": [
+      {
+        "text": "5 bathrooms",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9098c8f-4c98-465f-8f04-4328069c35ee",
+    "data": [
+      {
+        "text": "four bath room",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3015f79-ccac-45d1-b3f7-8b4482423f3e",
+    "data": [
+      {
+        "text": "three bathrooms",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c211a81-4220-4352-b62e-a118f1f4d998",
+    "data": [
+      {
+        "text": "3 bathrooms",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8122d1e-ab24-4443-8cce-47424a09bb17",
+    "data": [
+      {
+        "text": "2 bathrooms",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c622c6d0-0fa7-4c82-a4cc-217d0782fe4c",
+    "data": [
+      {
+        "text": "two bathrooms",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7705a9ed-fca8-49c2-9700-c429d02c65a0",
+    "data": [
+      {
+        "text": "one bathroom",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a73c1800-802d-4efa-8f7b-ba954e05def5",
+    "data": [
+      {
+        "text": "1 bathroom",
+        "alias": "bathroom",
+        "meta": "@bathroom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "a9edabc1-6e39-429c-b8b9-62e715805355",
+  "name": "hourly-plan",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

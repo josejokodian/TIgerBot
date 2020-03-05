@@ -1,0 +1,56 @@
+[
+  {
+    "value": "1 Bathroom",
+    "synonyms": [
+      "1 bathroom",
+      "one bathroom",
+      "1 bath room",
+      "one bath room"
+    ]
+  },
+  {
+    "value": "2 Bathrooms",
+    "synonyms": [
+      "2 bathroom",
+      "two bathroom",
+      "two bath room",
+      "2 bath room"
+    ]
+  },
+  {
+    "value": "3 Bathrooms",
+    "synonyms": [
+      "3 bathroom",
+      "three bathroom",
+      "3 bath room",
+      "three bath room"
+    ]
+  },
+  {
+    "value": "4 Bathroom",
+    "synonyms": [
+      "4 bathroom",
+      "four bathroom",
+      "4 bath room",
+      "four bath room"
+    ]
+  },
+  {
+    "value": "5 Bathroom",
+    "synonyms": [
+      "5 bathroom",
+      "five bathroom",
+      "5 bath room",
+      "five bath room"
+    ]
+  },
+  {
+    "value": "6 Bathroom",
+    "synonyms": [
+      "6 bathroom",
+      "six bathroom",
+      "6 bath room",
+      "six bath room"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a4827c5c-ac8c-4c04-bad0-5f6cd2b74f15",
+    "data": [
+      {
+        "text": "two kitchen",
+        "alias": "kitchen",
+        "meta": "@kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd38a4f2-8022-49cc-b71c-450c61f56f01",
+    "data": [
+      {
+        "text": "2 kitchen",
+        "alias": "kitchen",
+        "meta": "@kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbee2e7c-44a8-4454-969c-8a7e76556287",
+    "data": [
+      {
+        "text": "one",
+        "alias": "kitchen",
+        "meta": "@kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b1e1bbc-8c2a-40ca-ba7b-2df44b6ac5a7",
+    "data": [
+      {
+        "text": "one kitchen",
+        "alias": "kitchen",
+        "meta": "@kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02157505-d2eb-4e7d-9ed5-f23adfcbb4b4",
+    "data": [
+      {
+        "text": "1 kitchen",
+        "alias": "kitchen",
+        "meta": "@kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

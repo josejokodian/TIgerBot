@@ -1,0 +1,68 @@
+{
+  "id": "ecb3c94a-a7ab-4c2e-8859-99367f1fbaa8",
+  "name": "addons-intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8e2c507-6fe3-4eb8-9019-f18f2ea77f35",
+          "required": false,
+          "dataType": "@addons",
+          "name": "addons",
+          "value": "$addons",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6fa0c316-d88a-46f8-88aa-25f68cf3b2e7",
+          "required": false,
+          "dataType": "@addons",
+          "name": "addons1",
+          "value": "$addons1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "60433516-cb04-4861-88fe-6fa1e4fa02ad",
+          "required": false,
+          "dataType": "@addons",
+          "name": "addons2",
+          "value": "$addons2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

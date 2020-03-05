@@ -1,0 +1,16 @@
+[
+  {
+    "value": "condo",
+    "synonyms": [
+      "apartment",
+      "condo"
+    ]
+  },
+  {
+    "value": "house",
+    "synonyms": [
+      "home",
+      "house"
+    ]
+  }
+]

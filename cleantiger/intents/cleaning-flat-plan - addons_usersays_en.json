@@ -1,0 +1,88 @@
+[
+  {
+    "id": "d946526b-2a89-4e1c-bd77-0f2740f69192",
+    "data": [
+      {
+        "text": "none",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55da7fba-ec38-45a9-be2c-a33265330256",
+    "data": [
+      {
+        "text": "oven",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "fridge",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cabinets",
+        "alias": "addons11",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63bca8ff-8dc5-4bd2-a596-1c4c97649631",
+    "data": [
+      {
+        "text": "oven",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "fridge",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3b6b411-3f23-453d-b822-359b76f1df3c",
+    "data": [
+      {
+        "text": "oven",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

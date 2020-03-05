@@ -1,0 +1,44 @@
+[
+  {
+    "id": "44c73726-330e-4575-b226-51a331390285",
+    "data": [
+      {
+        "text": "apartment",
+        "alias": "buildingtype",
+        "meta": "@buildingtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ce093ee-2c69-4244-a8a7-9419b6228726",
+    "data": [
+      {
+        "text": "condo",
+        "alias": "buildingtype",
+        "meta": "@buildingtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28614cf0-25f6-4079-bc46-4949d73128cf",
+    "data": [
+      {
+        "text": "house",
+        "alias": "buildingtype",
+        "meta": "@buildingtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

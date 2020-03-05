@@ -1,0 +1,77 @@
+{
+  "id": "d7f2dd0a-fdb0-4df5-a89e-ff3df62d2866",
+  "parentId": "4d5d3382-5485-4e55-8078-3049fdbdc009",
+  "rootParentId": "4d5d3382-5485-4e55-8078-3049fdbdc009",
+  "name": "flat-service - squarefeet",
+  "auto": true,
+  "contexts": [
+    "flat-service-kitchen-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flat-service.flat-service-custom.flat-service-bedroom-custom.flat-service-bathroom-custom.flat-service-kitchen-custom",
+      "affectedContexts": [
+        {
+          "name": "flatPlan_context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "25fb2865-0223-4a0c-9c31-0ad49d9e8f82",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter square feet to continue"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "selected $number square feet, Choose suitable plan, Walk in the park, clean therapy, call the tiger"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "platform": "ZOHOSALESIQ",
+            "input": {
+              "type": "select",
+              "options": [
+                "Walk in the park",
+                "Clean therapy",
+                "Call the tiger"
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

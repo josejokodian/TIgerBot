@@ -1,0 +1,314 @@
+[
+  {
+    "id": "5ee771c5-4842-4d5d-a377-fbaa251ec031",
+    "data": [
+      {
+        "text": "fridge",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "oven",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cabinets",
+        "alias": "addons2",
+        "meta": "@addons",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f0d99e1-4261-415f-b751-a022dad71f31",
+    "data": [
+      {
+        "text": "fridge",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cabinets",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ead2a04e-d78e-44a9-9e3b-ed3565e99f41",
+    "data": [
+      {
+        "text": "cabinets",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "fridge",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6243011-d03c-4592-aa0c-00860eeb1cd6",
+    "data": [
+      {
+        "text": "kitchen",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "oven",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9967ee01-05ec-4b27-9206-0598effc32a6",
+    "data": [
+      {
+        "text": "cabinets",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "oven",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ba73c88-7f76-47f0-862f-0ab74a2c0687",
+    "data": [
+      {
+        "text": "fridge",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "oven",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1de2772e-d657-48fe-ada1-1af3528fee78",
+    "data": [
+      {
+        "text": "oven",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "fridge",
+        "alias": "addons1",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "027ec88b-981f-4574-9151-4379918b2306",
+    "data": [
+      {
+        "text": "kitchen cabinets",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c36d391d-335c-4e6c-8e60-fc3b79280540",
+    "data": [
+      {
+        "text": "cabinets",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a901e535-f236-4064-8b7e-5bbb64041166",
+    "data": [
+      {
+        "text": "fridge",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7f62c82-ed5e-4fe9-ac28-fa33889aea43",
+    "data": [
+      {
+        "text": "oven",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0af3e4a9-b204-40ac-9bc6-f63aed4d6a07",
+    "data": [
+      {
+        "text": "just ",
+        "userDefined": false
+      },
+      {
+        "text": "oven",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77bd1a7b-5a6d-48d4-b33f-aefa3c95e740",
+    "data": [
+      {
+        "text": "no",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d0ebbf0-e730-481c-8e41-bcbf7cc0646f",
+    "data": [
+      {
+        "text": "nop",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89053a48-ecb4-4944-b1c4-27790d23048a",
+    "data": [
+      {
+        "text": "don\u0027t need",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b27b632-5211-4d75-a9a1-d2c112aee64b",
+    "data": [
+      {
+        "text": "dont",
+        "alias": "addons",
+        "meta": "@addons",
+        "userDefined": false
+      },
+      {
+        "text": " need any addons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

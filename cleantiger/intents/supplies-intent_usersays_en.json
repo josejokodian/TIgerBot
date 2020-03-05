@@ -1,0 +1,94 @@
+[
+  {
+    "id": "de223f2d-aeb6-4fc6-9dbe-6f51d02e480f",
+    "data": [
+      {
+        "text": "no supplies",
+        "alias": "supplies",
+        "meta": "@supplies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b738f07-9e0e-430f-98cb-7616485d7df6",
+    "data": [
+      {
+        "text": "basic supplies",
+        "alias": "supplies",
+        "meta": "@supplies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9968fbc6-56d9-4bf2-af5a-62ac2e395b3e",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "need everything",
+        "alias": "supplies",
+        "meta": "@supplies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2292ea33-d731-4fe6-95d2-ba44a3e0e9d4",
+    "data": [
+      {
+        "text": "basic",
+        "alias": "supplies",
+        "meta": "@supplies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9550b12-f7e7-41a6-ae37-74ee7ecadc7a",
+    "data": [
+      {
+        "text": "all supplies",
+        "alias": "supplies",
+        "meta": "@supplies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "338e97cd-9c7d-4863-b00d-581dd19c79dd",
+    "data": [
+      {
+        "text": "i need ",
+        "userDefined": false
+      },
+      {
+        "text": "all supplies",
+        "alias": "supplies",
+        "meta": "@supplies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

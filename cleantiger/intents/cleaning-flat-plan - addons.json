@@ -1,0 +1,79 @@
+{
+  "id": "2068ab77-ad7a-4965-ae42-372aebac367e",
+  "parentId": "26c38c56-90a3-4114-a6b8-97ec49d9692a",
+  "rootParentId": "26c38c56-90a3-4114-a6b8-97ec49d9692a",
+  "name": "cleaning-flat-plan - addons",
+  "auto": true,
+  "contexts": [
+    "cleaning-flat-plan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cleaning-flat-plan.cleaning-flat-plan-custom",
+      "affectedContexts": [
+        {
+          "name": "cleaning-flat-plan-addons-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fac31d3d-b199-4099-a6b7-191cb6c1892f",
+          "required": true,
+          "dataType": "@addons",
+          "name": "addons",
+          "value": "$addons",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "211f3eb1-a241-493d-8841-5bc8e408b285",
+          "required": false,
+          "dataType": "@addons",
+          "name": "addons1",
+          "value": "$addons1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ab5debd5-e550-4eda-96e3-abc7a085ddf8",
+          "required": false,
+          "dataType": "@addons",
+          "name": "addons11",
+          "value": "$addons11",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

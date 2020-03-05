@@ -1,0 +1,19 @@
+[
+  {
+    "value": "flatrate",
+    "synonyms": [
+      "fixed",
+      "flat",
+      "flat rate",
+      "flatrate"
+    ]
+  },
+  {
+    "value": "hourly",
+    "synonyms": [
+      "hourly",
+      "per hour",
+      "hour"
+    ]
+  }
+]

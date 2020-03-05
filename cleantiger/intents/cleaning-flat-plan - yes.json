@@ -1,0 +1,36 @@
+{
+  "id": "7cacd39d-343f-4195-8234-e075b0fd88df",
+  "parentId": "26c38c56-90a3-4114-a6b8-97ec49d9692a",
+  "rootParentId": "26c38c56-90a3-4114-a6b8-97ec49d9692a",
+  "name": "cleaning-flat-plan - yes",
+  "auto": true,
+  "contexts": [
+    "cleaning-flat-plan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cleaning-flat-plan.cleaning-flat-plan-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thank you, Please choose"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
